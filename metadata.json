@@ -1,0 +1,6 @@
+{
+  "name": "Suno AI",
+  "description": "Create original songs, generate lyrics, produce realistic music tracks, and explore AI-generated audio with Suno AI studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
